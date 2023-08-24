@@ -1,5 +1,5 @@
 # Basic_Python
-- Check proficiency with commonly-used Python programming.
+- Demonstrate proficiency with commonly-used Python programming.
 - This project checks a couple of properties for numbers:
   - Integers being prime.
   - Integers being divisible by other integers.
